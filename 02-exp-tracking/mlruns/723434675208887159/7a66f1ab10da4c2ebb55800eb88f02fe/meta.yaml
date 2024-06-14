@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-practice/02-exp-tracking/mlruns/723434675208887159/7a66f1ab10da4c2ebb55800eb88f02fe/artifacts
+end_time: 1718328642141
+entry_point_name: ''
+experiment_id: '723434675208887159'
+lifecycle_stage: active
+run_id: 7a66f1ab10da4c2ebb55800eb88f02fe
+run_name: bright-smelt-384
+run_uuid: 7a66f1ab10da4c2ebb55800eb88f02fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718328640837
+status: 3
+tags: []
+user_id: codespace
